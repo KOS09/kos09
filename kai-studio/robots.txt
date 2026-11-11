@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://kos09.github.io/kos09/kai-studio/sitemap.xml
